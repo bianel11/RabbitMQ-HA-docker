@@ -1,0 +1,14 @@
+{
+  "name": "RabbitMQ-HA-docker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.10.3",
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "type": "module"
+}
